@@ -8,3 +8,5 @@ dotflowcn.wikidot.com
 [安装脚本](https://github.com/rHanbowChic/FoggyPath/raw/main/FoggyPath.user.js)
 
 根据浏览器的不同，你可能需要脚本管理器，例如油猴，来安装。
+
+*有谁知道pbP发生了什么吗？*

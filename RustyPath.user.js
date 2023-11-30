@@ -13,3 +13,4 @@ const styleTag = document.createElement("style");
 styleTag.innerHTML = cssTemplateString;
 document.head.insertAdjacentElement('beforeend', styleTag);
 //这个脚本去除"本站点由于不可抗力暂时关闭。"的告示，使dotflowcn.wikidot.com的界面完全回到过去。
+//但"不可抗力"到底是什么啊…

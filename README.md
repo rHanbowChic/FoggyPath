@@ -8,5 +8,7 @@ dotflowcn.wikidot.com
 [安装脚本](https://github.com/rHanbowChic/FoggyPath/raw/main/FoggyPath.user.js)
 
 根据浏览器的不同，你可能需要脚本管理器，例如油猴，来安装。
+***
+这是它的变种RustyPath，专用于dotflowcn.wikidot.com的版本：[安装脚本](https://github.com/rHanbowChic/FoggyPath/raw/main/RustyPath.user.js)
 
 <sup><sub>*有谁知道pbP发生了什么吗？*</sub></sup>
